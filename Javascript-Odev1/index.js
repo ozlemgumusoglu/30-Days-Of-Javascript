@@ -1,1 +1,1 @@
-let name = prompt("ltfen isminizi giriniz:");
+let name = prompt("lutfen isminizi giriniz:");
